@@ -1,0 +1,13 @@
+/* Arabic styles */
+html {
+  scroll-behavior: smooth;
+}
+
+.AR {
+  direction: rtl;
+}
+
+/* English styles */
+.EN {
+  direction: ltr;
+}
